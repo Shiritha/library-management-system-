@@ -1,7 +1,7 @@
 ## library-management-system-
-#A Library Management System built using Python and MySQL in Jupyter Notebook to demonstrate database connectivity, CRUD operations, and structured programming concepts.
+A Library Management System built using Python and MySQL in Jupyter Notebook to demonstrate database connectivity, CRUD operations, and structured programming concepts.
 ##Project Overview
-#This project automates basic library operations such as:
+This project automates basic library operations such as:
 -Adding books
 -Viewing book records
 -Registering members
